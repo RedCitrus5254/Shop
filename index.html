@@ -126,7 +126,9 @@
   </script>
   </div>
   <div>
-    <button onclick="try {rrApi.setEmail($('Saburov.98@mail.ru').val());}catch(e){}">Отдать email</button>
+    <script type="text/javascript">
+      (window["rrApiOnReady"] = window["rrApiOnReady"] || []).push(function() { rrApi.setEmail("example@email.com", { gender: "Male", age: 21, birthday: "15.01.1983" }); });
+    </script>
   </div>
 </body>
 </html>
