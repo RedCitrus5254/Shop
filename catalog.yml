@@ -7,35 +7,36 @@
         </categories>
         <offers>
             <offer id="1" available="true">
+                <url>https://redcitrus5254.github.io/Shop/firstGood</url>
                 <price>300</price>
                 <categoryId>1</categoryId>
-                <name>Тарелка</name>
+                <name>Tarelka</name>
             </offer>
             <offer id="2" available="true">
                 <price>100</price>
                 <categoryId>1</categoryId>
-                <name>Вилка</name>
+                <name>vilka</name>
             </offer>
             <offer id="3" available="true">
                 <price>500</price>
                 <categoryId>1</categoryId>
                 <categoryId>2</categoryId>
-                <name>Чашка</name>
+                <name>Chashka</name>
             </offer>
             <offer id="4" available="true">
                 <price>2000</price>
                 <categoryId>2</categoryId>
-                <name>Нож</name>
+                <name>Nozsh</name>
             </offer>
             <offer id="5" available="true">
                 <price>250</price>
                 <categoryId>1</categoryId>
-                <name>Блюдце</name>
+                <name>Bludce</name>
             </offer>
             <offer id="6" available="true">
                 <price>800</price>
                 <categoryId>1</categoryId>
-                <name>Кастрюля</name>
+                <name>Kastrula</name>
             </offer>
         </offers>
     </shop>
