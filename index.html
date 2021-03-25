@@ -104,11 +104,26 @@
 
   <div>
     <h2>Посуда</h2>
+      <script type="text/javascript">
+      (window["rrApiOnReady"] = window["rrApiOnReady"] || []).push(function() {
+        try { rrApi.categoryView(1); } catch(e) {}
+      })
+      </script>
+  </div>
+  <div>
     <script type="text/javascript">
-    (window["rrApiOnReady"] = window["rrApiOnReady"] || []).push(function() {
-    try { rrApi.categoryView(1); } catch(e) {}
-  })
-</script>
+      (window["rrApiOnReady"] = window["rrApiOnReady"] || []).push(function() {
+        try {
+            rrApi.order({
+                transaction: "1",
+                items: [
+                    { id: 1, qnt: 1,  price: 300}
+                    { id: 2, qnt: 1,  price: 100}
+                ]
+            });
+        } catch(e) {}
+      })
+  </script>
   </div>
 </body>
 </html>
