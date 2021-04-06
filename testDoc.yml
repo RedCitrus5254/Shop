@@ -15,12 +15,19 @@
       <option cost="984201202" days="21" />
     </delivery-options>
     <offers>
-      <offer  id="9575" available="true" >
+      <offer  id="9576" available="true" >
       <name>не чайник</name>
       <description><![CDATA[<p>Электрический двойной чайник Demtez Inox от всемирно известного турецкого производителя Korkmaz (Коркмаз) — изготовлен из высококачественной нержавеющей стали серии 18/10 Cr-Ni . Эргономичная ручка из термостойкого бакелита, с покрытием SoftTouch не нагревается при эксплуатации. Объём заварника 1,1 л, самовара 1,6 л. Мощность самовара 1600 Вт. Термодатчик защиты от работы без воды и высоких температур, автоматическая поддержание температуры. Упакован в специальную картонную коробку.</p>]]></description>
       <picture>https://korkmaz.ru/wp-content/uploads/2021/02/a369-01.jpg</picture>
       <url>https://gemaz.ru/product/elektricheskij-dvojnoj-chajnik-demtez-11-/</url>
       <price>4336</price>
+      <stock id="23">
+          <available>false</available>
+          <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
+          <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
+          <price>4336</price>
+          <description>f65b40d5-6817-496a-b7ff-a8f9dedad424</description>
+      </stock>
       <currencyId>RUR</currencyId>
       <weight>640</weight>
       <dimensions>19/15/36</dimensions>
