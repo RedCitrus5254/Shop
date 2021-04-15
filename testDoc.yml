@@ -7,10 +7,6 @@
     <currencies>
       <currency rate="1" id="RUR" />
     </currencies>
-    <categories>
-      <category id="39">Бытовая техника</category>
-      <category id="104" parentId="39">Электрические чайники</category>
-    </categories>
     <delivery-options>
       <option cost="984201202" days="21" />
     </delivery-options>
