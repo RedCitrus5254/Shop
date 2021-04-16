@@ -30,15 +30,15 @@
       <delivery>true</delivery>
       <categoryId>104</categoryId>
       <stock id="Сызрань">
-      <available>false</available>
+      <available>true</available>
       <price>3290.00</price>
       </stock>
       <stock id="Сыктывкар">
-      <available>false</available>
+      <available>true</available>
       <price>4190.00</price>
       </stock>
       <stock id="Таганрог">
-      <available>false</available>
+      <available>true</available>
       <price>0</price>
       </stock>
 
