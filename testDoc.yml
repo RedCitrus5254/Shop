@@ -29,19 +29,19 @@
       <pickup>false</pickup>
       <delivery>true</delivery>
       <categoryId>104</categoryId>
+      <stock id="Сызрань">
+      <available>false</available>
+      <price>3290.00</price>
       </stock>
-<stock id="Сызрань">
-<available>false</available>
-<price>3290.00</price>
-</stock>
-<stock id="Сыктывкар">
-<available>false</available>
-<price>4190.00</price>
-</stock>
-<stock id="Таганрог">
-<available>false</available>
-<price>0</price>
-</stock>
+      <stock id="Сыктывкар">
+      <available>false</available>
+      <price>4190.00</price>
+      </stock>
+      <stock id="Таганрог">
+      <available>false</available>
+      <price>0</price>
+      </stock>
+
       <param name="Автор">Фленов Михаил Евгеньевич</param>
       </offer>
     </offers>
