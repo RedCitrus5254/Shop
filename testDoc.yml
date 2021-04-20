@@ -25,6 +25,8 @@
       <weight>640</weight>
       <dimensions>19/15/36</dimensions>
       <vendorCode>A369-01</vendorCode>
+      <vendor>Apple</vendor>
+      <groupId>groupId1</groupId>
       <store>true</store>
       <model>iPhone 11 128GB Purple (MHDM3RU/A)</model>
       <oldPrice>8800</oldPrice>
