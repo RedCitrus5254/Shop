@@ -20,7 +20,6 @@
       <price>59990</price>
       <pictureUrl>https://static.eldorado.ru/photos/71/715/666/00/new_71566600_l_1605096383.jpeg</pictureUrl>
       <url>https://www.eldorado.ru/cat/detail/smartfon-apple-iphone-11-128gb-purple-mhdm3ru-a/</url>
-      <categoryPaths>Смартфоны и гаджеты/Смартфоны, мобильные телефоны/Смартфоны</categoryPaths>
       <stockId>5354691</stockId>
       <description>Купить Смартфон Apple iPhone 11 128GB Purple (MHDM3RU/A) в интернет-магазине ЭЛЬДОРАДО с доставкой и гарантией. Ознакомиться с ценами, отзывами владельцев, фотографиями, техническими характеристиками и подробным описанием Смартфон Apple iPhone 11 128GB Purple (MHDM3RU/A).</description>
       <vendor>Apple</vendor>
@@ -28,9 +27,8 @@
       <oldPrice>8800</oldPrice>
       <groupId>groupId1</groupId>
       <typePrefix>typePrefix1</typePrefix>
-      <BuyUrl>https://static.eldorado.ru/photos/</BuyUrl>
+      <buyUrl>https://static.eldorado.ru/photos/</BuyUrl>
       <param name="color">red</param>
-      <param name="size">ss</param>
       </offer>
     </offers>
   </shop>
