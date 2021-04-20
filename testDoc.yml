@@ -26,15 +26,12 @@
       <dimensions>19/15/36</dimensions>
       <vendorCode>A369-01</vendorCode>
       <store>true</store>
+      <model>iPhone 11 128GB Purple (MHDM3RU/A)</model>
+      <oldPrice>8800</oldPrice>
       <pickup>false</pickup>
       <delivery>true</delivery>
       <categoryId>104</categoryId>
       <param name="Автор">Фленов Михаил Евгеньевич</param>
-      <model>iPhone 11 128GB Purple (MHDM3RU/A)</model>
-      <oldPrice>8800</oldPrice>
-      <groupId>groupId1</groupId>
-      <typePrefix>typePrefix1</typePrefix>
-      <buyUrl>https://static.eldorado.ru/photos/</BuyUrl>
       </offer>
     </offers>
   </shop>
