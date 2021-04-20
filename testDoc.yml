@@ -15,21 +15,26 @@
       <category id="104" parentId="39">Электрические чайники</category>
     </categories>
     <offers>
-      <offer  id="71566600" available="true" >
-      <name>Смартфон Apple iPhone 11 128GB Purple (MHDM3RU/A)</name>
-      <price>59990</price>
+      <offer  id="8890" available="true" >
+      <name>Электрический двойной чайник Demtez, 1,1 л и 1,6 л</name>
+      <description><![CDATA[<p>Электрический двойной чайник Demtez Inox от всемирно известного турецкого производителя Korkmaz (Коркмаз) — изготовлен из высококачественной нержавеющей стали серии 18/10 Cr-Ni . Эргономичная ручка из термостойкого бакелита, с покрытием SoftTouch не нагревается при эксплуатации. Объём заварника 1,1 л, самовара 1,6 л. Мощность самовара 1600 Вт. Термодатчик защиты от работы без воды и высоких температур, автоматическая поддержание температуры. Упакован в специальную картонную коробку.</p>]]></description>
+      <picture>https://korkmaz.ru/wp-content/uploads/2021/02/a369-01.jpg</picture>
+      <url>https://korkmaz.ru/product/elektricheskij-dvojnoj-chajnik-demtez-11-l-i-16-l/</url>
+      <price>4335</price>
+      <currencyId>RUR</currencyId>
+      <weight>640</weight>
+      <dimensions>19/15/36</dimensions>
+      <vendorCode>A369-01</vendorCode>
+      <store>true</store>
+      <pickup>false</pickup>
+      <delivery>true</delivery>
       <categoryId>104</categoryId>
-      <pictureUrl>https://static.eldorado.ru/photos/71/715/666/00/new_71566600_l_1605096383.jpeg</pictureUrl>
-      <url>https://www.eldorado.ru/cat/detail/smartfon-apple-iphone-11-128gb-purple-mhdm3ru-a/</url>
-      <stockId>5354691</stockId>
-      <description>Купить Смартфон Apple iPhone 11 128GB Purple (MHDM3RU/A) в интернет-магазине ЭЛЬДОРАДО с доставкой и гарантией. Ознакомиться с ценами, отзывами владельцев, фотографиями, техническими характеристиками и подробным описанием Смартфон Apple iPhone 11 128GB Purple (MHDM3RU/A).</description>
-      <vendor>Apple</vendor>
+      <param name="Автор">Фленов Михаил Евгеньевич</param>
       <model>iPhone 11 128GB Purple (MHDM3RU/A)</model>
       <oldPrice>8800</oldPrice>
       <groupId>groupId1</groupId>
       <typePrefix>typePrefix1</typePrefix>
       <buyUrl>https://static.eldorado.ru/photos/</BuyUrl>
-      <param name="color">red</param>
       </offer>
     </offers>
   </shop>
