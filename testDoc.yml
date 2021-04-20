@@ -28,6 +28,7 @@
       <vendorCode>A369-01</vendorCode>
       <vendor>Apple</vendor>
       <groupId>groupId1</groupId>
+      <typePrefix>dsfsf</typePrefix>
       <store>true</store>
       <model>iPhone 11 128GB Purple (MHDM3RU/A)</model>
       <oldPrice>8800</oldPrice>
