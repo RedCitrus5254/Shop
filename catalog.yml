@@ -6,37 +6,31 @@
             <category id="2">Смартфоны</category>
         </categories>
         <offers>
-            <offer id="1" available="true">
-                <url>https://redcitrus5254.github.io/Shop/firstGood</url>
-                <price>300</price>
-                <categoryId>1</categoryId>
-                <name>Tarelka</name>
+            <offer id="506362" available="true">
+            <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
+            <price>699</price>
+            <currencyId>RUB</currencyId>
+            <categoryId>1</categoryId>
+            <weight>0.938</weight>
+            <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
+            <name>Набор</name>
+            <description><p>Секрет</p></description>
+            <sales_notes>Предоплата для ТК</sales_notes>
+            <manufacturer_warranty>true</manufacturer_warranty>
+            <barcode>8442003552834</barcode>
             </offer>
-            <offer id="2" available="true">
-                <price>100</price>
-                <categoryId>1</categoryId>
-                <name>vilka</name>
-            </offer>
-            <offer id="3" available="true">
-                <price>500</price>
-                <categoryId>1</categoryId>
-                <categoryId>2</categoryId>
-                <name>Chashka</name>
-            </offer>
-            <offer id="4" available="true">
-                <price>2000</price>
-                <categoryId>2</categoryId>
-                <name>Nozsh</name>
-            </offer>
-            <offer id="5" available="true">
-                <price>250</price>
-                <categoryId>1</categoryId>
-                <name>Bludce</name>
-            </offer>
-            <offer id="6" available="true">
-                <price>800</price>
-                <categoryId>1</categoryId>
-                <name>Kastrula</name>
+            <offer id="506363" available="true">
+            <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
+            <price>699</price>
+            <currencyId>RUB</currencyId>
+            <categoryId>2</categoryId>
+            <weight>0.938</weight>
+            <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
+            <name>Набор</name>
+            <description><h1>Секрет</h1></description>
+            <sales_notes>Предоплата для ТК</sales_notes>
+            <manufacturer_warranty>true</manufacturer_warranty>
+            <barcode>8442003552834</barcode>
             </offer>
         </offers>
     </shop>
