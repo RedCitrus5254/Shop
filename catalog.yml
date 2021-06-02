@@ -14,7 +14,7 @@
             <weight>0.938</weight>
             <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
             <name>Набор</name>
-            <description><p>Секрет</p></description>
+            <description> <p>Секрет</p> </description>
             <sales_notes>Предоплата для ТК</sales_notes>
             <manufacturer_warranty>true</manufacturer_warranty>
             <barcode>8442003552834</barcode>
@@ -27,7 +27,7 @@
             <weight>0.938</weight>
             <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
             <name>Набор</name>
-            <description><h1>Секрет</h1></description>
+            <description> <h1>Секрет</h1> </description>
             <sales_notes>Предоплата для ТК</sales_notes>
             <manufacturer_warranty>true</manufacturer_warranty>
             <barcode>8442003552834</barcode>
