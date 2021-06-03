@@ -7,30 +7,46 @@
         </categories>
         <offers>
             <offer id="506362" available="true">
-            <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-            <price>699</price>
-            <currencyId>RUB</currencyId>
-            <categoryId>1</categoryId>
-            <weight>0.938</weight>
-            <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
-            <name>Набор</name>
-            <description><![CDATA[<p>Секрет</p>]]></description>
-            <sales_notes>Предоплата для ТК</sales_notes>
-            <manufacturer_warranty>true</manufacturer_warranty>
-            <barcode>8442003552834</barcode>
+                <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
+                <price>699</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <weight>0.938</weight>
+                <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
+                <name>Набор</name>
+                <description><![CDATA[<p>Секрет</p>]]></description>
+                <sales_notes>Предоплата для ТК</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <barcode>8442003552834</barcode>
             </offer>
             <offer id="506363" available="true">
-            <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-            <price>699</price>
-            <currencyId>RUB</currencyId>
-            <categoryId>2</categoryId>
-            <weight>0.938</weight>
-            <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
-            <name>Набор</name>
-            <description><![CDATA[<h1>Секрет</h1>]]></description>
-            <sales_notes>Предоплата для ТК</sales_notes>
-            <manufacturer_warranty>true</manufacturer_warranty>
-            <barcode>8442003552834</barcode>
+                <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
+                <price>699</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <weight>0.938</weight>
+                <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
+                <name>Набор</name>
+                <description><![CDATA[<h1>Секрет</h1>]]></description>
+                <sales_notes>Предоплата для ТК</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <barcode>8442003552834</barcode>
+                <stock id="20">
+                  <available>true</available>
+                  <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
+                  <name>skock1</name>
+                  <price>200</price>
+                  <oldprice>100</oldprice>
+                  <description><![CDATA[<h2>sdsd</h2>>]]></description>
+                </stock>
+                <stock id="21">
+                  <available>false</available>
+                  <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
+                  <name>stock2</name>
+                  <price>201</price>
+                  <oldprice>101</oldprice>
+                  <description><![CDATA[<h3>sdsd</h2>]]></description>
+                </stock>
             </offer>
         </offers>
     </shop>
