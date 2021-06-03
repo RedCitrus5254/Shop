@@ -40,7 +40,7 @@
                   <description><![CDATA[<h2>sdsd</h2>>]]></description>
                 </stock>
                 <stock id="21">
-                  <available>false</available>
+                  <available>true</available>
                   <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
                   <name>stock2</name>
                   <price>201</price>
