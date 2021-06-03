@@ -32,7 +32,7 @@
                 <manufacturer_warranty>true</manufacturer_warranty>
                 <barcode>8442003552834</barcode>
                 <stock id="20">
-                  <available>true</available>
+                  <available>false</available>
                   <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
                   <name>skock1</name>
                   <price>200</price>
@@ -40,11 +40,19 @@
                   <description><![CDATA[<h2>sdsd</h2>>]]></description>
                 </stock>
                 <stock id="21">
+                  <available>false</available>
+                  <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
+                  <name>stock2</name>
+                  <price>2010</price>
+                  <oldprice>1010</oldprice>
+                  <description><![CDATA[<h3>sdsd</h2>]]></description>
+                </stock>
+                <stock id="22">
                   <available>true</available>
                   <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
                   <name>stock2</name>
-                  <price>201</price>
-                  <oldprice>101</oldprice>
+                  <price>202</price>
+                  <oldprice>102</oldprice>
                   <description><![CDATA[<h3>sdsd</h2>]]></description>
                 </stock>
             </offer>
