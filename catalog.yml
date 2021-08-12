@@ -8,7 +8,7 @@
         <offers>
             <offer id="506362" available="true">
                 <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-                <price>699</price>
+                <price>еее</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <weight>0.938</weight>
@@ -21,7 +21,7 @@
             </offer>
             <offer id="506363" available="true">
                 <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-                <price>699</price>
+                <price>кшнг</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
                 <weight>0.938</weight>
@@ -35,7 +35,7 @@
                   <available>false</available>
                   <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
                   <name>skock1</name>
-                  <price>200</price>
+                  <price>чячм</price>
                   <oldprice>100</oldprice>
                   <description><![CDATA[<h2>sdsd</h2>>]]></description>
                 </stock>
@@ -43,7 +43,7 @@
                   <available>false</available>
                   <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
                   <name>stock2</name>
-                  <price>2010</price>
+                  <price>чям</price>
                   <oldprice>1010</oldprice>
                   <description><![CDATA[<h3>sdsd</h2>]]></description>
                 </stock>
@@ -51,7 +51,7 @@
                   <available>true</available>
                   <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
                   <name>stock2</name>
-                  <price>202</price>
+                  <price>чиаы</price>
                   <oldprice>102</oldprice>
                   <description><![CDATA[<h3>sdsd</h2>]]></description>
                 </stock>
