@@ -1,61 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2021-03-25 11:22">
     <shop>
-        <categories>
-            <category id="1">Посуда</category>
-            <category id="2">Смартфоны</category>
-        </categories>
-        <offers>
-            <offer id="506362" available="true">
-                <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-                <price>еее</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <weight>0.938</weight>
-                <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
-                <name>Набор</name>
-                <description><![CDATA[<p>Секрет</p>]]></description>
-                <sales_notes>Предоплата для ТК</sales_notes>
-                <manufacturer_warranty>true</manufacturer_warranty>
-                <barcode>8442003552834</barcode>
-            </offer>
-            <offer id="506363" available="true">
-                <url>https://poryadok.ru/catalog/nabory_dlya_vannoy/506362/</url>
-                <price>кшнг</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>2</categoryId>
-                <weight>0.938</weight>
-                <picture>https://cdn.poryadok.ru/upload/iblock/368/36844e4b238de357548d1f97cf14b51d.jpeg</picture>
-                <name>Набор</name>
-                <description><![CDATA[<h1>Секрет</h1>]]></description>
-                <sales_notes>Предоплата для ТК</sales_notes>
-                <manufacturer_warranty>true</manufacturer_warranty>
-                <barcode>8442003552834</barcode>
-                <stock id="20">
-                  <available>false</available>
-                  <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
-                  <name>skock1</name>
-                  <price>чячм</price>
-                  <oldprice>100</oldprice>
-                  <description><![CDATA[<h2>sdsd</h2>>]]></description>
-                </stock>
-                <stock id="21">
-                  <available>false</available>
-                  <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
-                  <name>stock2</name>
-                  <price>чям</price>
-                  <oldprice>1010</oldprice>
-                  <description><![CDATA[<h3>sdsd</h2>]]></description>
-                </stock>
-                <stock id="22">
-                  <available>true</available>
-                  <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
-                  <name>stock2</name>
-                  <price>чиаы</price>
-                  <oldprice>102</oldprice>
-                  <description><![CDATA[<h3>sdsd</h2>]]></description>
-                </stock>
-            </offer>
-        </offers>
-    </shop>
+    <name>74040426</name>
+    <company>dc08e8ee-4</company>
+    <url>e3fac7f6-1d41-4fa9-a49f-2df977d58d4c</url>
+    <currencies>
+      <currency rate="1" id="RUR" />
+    </currencies>
+    <categories>
+      <category id="1">ed6b742f-074b-4a7b-bc23-20fc20f77962</category>
+      <category id="2" parentId="1">33664089-e2a2-40f8-aec9-264a7c9731a0</category>
+    </categories>
+    <delivery-options>
+      <option cost="984201202" days="21" />
+    </delivery-options>
+    <offers>
+      <offer id="1" available="true" group_id="28411448-1d6d-4b55-b658-b5ce033ad570">
+        <url>http://5c3eb273-4aaa-4a01-92e9-edb4ef59a01e/</url>
+        <price>454545</price>
+        <oldprice>123</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://45b2f6ec-dd1a-4a17-8c92-f382b50f717b</picture>
+        <delivery>ff889</delivery>
+        <name>c775c7c5-4af4-4847-8996-c75886f73b7a</name>
+        <vendor>ec13aa4c-d130-4501-acf0-cb6794690328</vendor>
+        <model>0cbdc685-487a-474e-9da3-51c1e4444c18</model>
+        <vendorCode>1438f</vendorCode>
+        <description>7dd91b2c-c690-414d-b344-bfb0adb84bee</description>
+        <barcode>6a4951e7-7</barcode>
+        <typePrefix>b3aff6b2-d641-474b-84d7-4921165c68ce</typePrefix>
+        <title>b750c506-ae2b-4d8a-bb98-ecfa16811663</title>
+        <artist>ae643d1a-c00b-4e8f-854c-dd40f25617fd</artist>
+        <buyurl>883153b8-fba7-4aa4-bf24-ba8c9edf6cc9</buyurl>
+        <age>69</age>
+        <param name="e90044d4-a467-450c-aeb8-c847f1869a58">f1f50529-b173-4eb7-b1b8-f46885f85a6c</param>
+        <param name="4cd82aad-dde9-4b3c-8cdb-d5f432678802">03176134-5596-4fa3-93ae-7e20de24759e</param>
+        <param name="size">562095ec-fc5e-4c3f-bdff-0da9f43126af</param>
+        <param name="color">9bb8572a-4342-4782-be10-a663f3cd0129</param>
+      </offer>      
+      <offer id="2" available="false" group_id="ca8e8827-7c88-4c8b-8b11-4b8a3b692ebc">
+        <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
+        <price>45333027391203100000000000000</price>
+        <oldprice>1234</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <picture>http://8b617408-6397-40f4-bf6a-417cf8992a07</picture>
+        <delivery>ad246</delivery>
+        <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
+        <vendor>77430a6d-39c6-44f1-86d2-d17d63d54ee1</vendor>
+        <model>7d8ead34-e6e3-47c4-bc02-d39b2f36eecc</model>
+        <vendorCode>04a9d</vendorCode>
+        <description>f65b40d5-6817-496a-b7ff-a8f9dedad424</description>
+        <barcode>25bca18f-8</barcode>
+        <typePrefix>c8ba8831-02ff-4097-af39-01f13d68e66f</typePrefix>
+        <stock id="f1c32f2f-4cdc-4fc1-9a38-6cb7acb19de9">
+          <available>false</available>
+          <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
+          <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
+          <price>45333027391203100000000000000</price>
+          <oldprice>  </oldprice>
+          <description>f65b40d5-6817-496a-b7ff-a8f9dedad424</description>
+        </stock>
+        <stock id="21a01ca7-9eaa-488a-88c0-bc28a4c3f146">
+          <available>false</available>
+          <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
+          <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
+          <price>59317822987306100000000000000</price>
+          <oldprice></oldprice>
+          <description>cd532c14-063a-45b4-bcd6-6cced83daf01</description>
+        </stock>
+        <title>457e3f50-60e2-49cd-af2d-646d57abe95f</title>
+        <artist>c9534c36-0e76-4ba6-b892-cb85ac6582d5</artist>
+        <buyurl>fa8a5d2c-1713-4fad-aeb8-e16c3b5d35f5</buyurl>
+        <age>13</age>
+        <param name="d1312543-4970-4d3d-8964-6d074b7cc917">f666b3a5-795f-4108-ae45-8395b26d8f67</param>
+        <param name="f60ac291-abf1-4ae5-b5d7-d4895c72466b">c5de4498-10e7-4d18-b36c-d7e69dc3eea7</param>
+        <param name="size">20485335-3e7f-489a-baf3-6cb1aaada58f</param>
+        <param name="color">94309042-279a-4f85-946d-4c9e0392f9ce</param>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
