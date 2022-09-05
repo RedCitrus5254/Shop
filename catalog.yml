@@ -56,7 +56,7 @@
         <barcode>25bca18f-8</barcode>
         <typePrefix>c8ba8831-02ff-4097-af39-01f13d68e66f</typePrefix>
         <stock id="f1c32f2f-4cdc-4fc1-9a38-6cb7acb19de9">
-          <available>false</available>
+          <available>true</available>
           <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
           <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
           <price>45333027391203100000000000000</price>
@@ -64,7 +64,7 @@
           <description>f65b40d5-6817-496a-b7ff-a8f9dedad424</description>
         </stock>
         <stock id="21a01ca7-9eaa-488a-88c0-bc28a4c3f146">
-          <available>false</available>
+          <available>true</available>
           <url>http://28c3ced0-97c3-4d5d-b283-a9c9e365f188/</url>
           <name>64fdfa08-794a-445b-a5fd-1c5ffd5c5da1</name>
           <price>59317822987306100000000000000</price>
