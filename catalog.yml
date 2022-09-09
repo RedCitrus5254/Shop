@@ -8,7 +8,7 @@
       <currency rate="1" id="RUR" />
     </currencies>
     <categories>
-      <category id="1">ed6b742f-074b-4a7b-bc23-20fc20f77962</category>
+      <category id="19091">testcat19091</category>
       <category id="2" parentId="1">33664089-e2a2-40f8-aec9-264a7c9731a0</category>
     </categories>
     <delivery-options>
@@ -20,7 +20,7 @@
         <price>4545451</price>
         <oldprice>454545</oldprice>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>19091</categoryId>
         <picture>http://45b2f6ec-dd1a-4a17-8c92-f382b50f717b</picture>
         <delivery>ff889</delivery>
         <name>c775c7c5-4af4-4847-8996-c75886f73b7a</name>
@@ -44,7 +44,6 @@
         <price>45333027391203100000000000000</price>
         <oldprice>454545</oldprice>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
         <categoryId>2</categoryId>
         <picture>http://8b617408-6397-40f4-bf6a-417cf8992a07</picture>
         <delivery>ad246</delivery>
