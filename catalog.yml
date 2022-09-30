@@ -14,31 +14,7 @@
     <delivery-options>
       <option cost="984201202" days="21" />
     </delivery-options>
-    <offers>
-      <offer id="3" available="true" group_id="28411448-1d6d-4b55-b658-b5ce033ad570">
-        <url>http://5c3eb273-4aaa-4a01-92e9-edb4ef59a01e/</url>
-        <price>4545451</price>
-        <oldprice>454545</oldprice>
-        <currencyId>RUR</currencyId>
-        <categoryId>19091</categoryId>
-        <picture>http://45b2f6ec-dd1a-4a17-8c92-f382b50f717b</picture>
-        <delivery>ff889</delivery>
-        <name>c775c7c5-4af4-4847-8996-c75886f73b7a</name>
-        <vendor>ec13aa4c-d130-4501-acf0-cb6794690328</vendor>
-        <model>0cbdc685-487a-474e-9da3-51c1e4444c18</model>
-        <vendorCode>1438f</vendorCode>
-        <description>7dd91b2c-c690-414d-b344-bfb0adb84bee</description>
-        <barcode>6a4951e7-7</barcode>
-        <typePrefix>b3aff6b2-d641-474b-84d7-4921165c68ce</typePrefix>
-        <title>b750c506-ae2b-4d8a-bb98-ecfa16811663</title>
-        <artist>ae643d1a-c00b-4e8f-854c-dd40f25617fd</artist>
-        <buyurl>883153b8-fba7-4aa4-bf24-ba8c9edf6cc9</buyurl>
-        <age>69</age>
-        <param name="e90044d4-a467-450c-aeb8-c847f1869a58">f1f50529-b173-4eb7-b1b8-f46885f85a6c</param>
-        <param name="4cd82aad-dde9-4b3c-8cdb-d5f432678802">03176134-5596-4fa3-93ae-7e20de24759e</param>
-        <param name="size">562095ec-fc5e-4c3f-bdff-0da9f43126af</param>
-        <param name="color">9bb8572a-4342-4782-be10-a663f3cd0129</param>
-      </offer>      
+    <offers>    
       <offer id="2" available="true" group_id="ca8e8827-7c88-4c8b-8b11-4b8a3b692ebc">
         <url>http://06038fa1-eae4-4694-bdcb-16df64fcc881/</url>
         <price>45333027391203100000000000000</price>
