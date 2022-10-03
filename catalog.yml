@@ -19,7 +19,6 @@
 			<category id="559" parentId="558">Авто, мото кепки</category>
 			<category id="570" parentId="558">POLO Ralph Lauren</category>
 			<category id="580" parentId="558">Lacoste</category>
-			<category id="588" parentId="558"/>
 			<category id="594" parentId="559">KTM</category>
 			<category id="599" parentId="558">NY (New York Yankees)</category>
 			<category id="643" parentId="558">Утепленные кепки</category>
@@ -32,7 +31,6 @@
 			<category id="654" parentId="8">Dsquared2 </category>
 			<category id="656" parentId="8">Fred Perry</category>
 			<category id="660" parentId="8">Stone Island</category>
-			<category id="663" parentId="8"/>
 			<category id="667" parentId="8">Россия</category>
 			<category id="677" parentId="8">POLO Ralph Lauren</category>
 			<category id="680" parentId="8">Футбольные шапки</category>
@@ -41,15 +39,12 @@
 			<category id="702" parentId="680">Real Madrid</category>
 			<category id="735" parentId="8">THE NORTH FACE</category>
 			<category id="744" parentId="558">Gant</category>
-			<category id="756" parentId="4"/>
-			<category id="787" parentId="558"/>
 			<category id="803" parentId="8">Trussardi Jeans</category>
 			<category id="808" parentId="8">Kenzo</category>
 			<category id="816" parentId="558">Billionaire</category>
 			<category id="829" parentId="558">DSQUARED2</category>
 			<category id="855" parentId="558">Off-White</category>
 			<category id="858" parentId="2">Поло</category>
-			<category id="859" parentId="858"/>
 			<category id="860" parentId="2">Мужские спортивные костюмы</category>
 			<category id="861" parentId="860">Paul and Shark</category>
 			<category id="863" parentId="680">Ростов</category>
